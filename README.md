@@ -9,7 +9,7 @@ Sul sul. My name is Warren Woodhouse. I enjoy playing video games and I love The
 * Mods Last Updated: 16th January 2022
 * Mods By: [Warren Woodhouse](https://github.com/warrenwoodhouse)
 * Follow on YouTube: [CLICK HERE](https://youtube.com/user/warrenwoodhouse) to subscribe to my YouTube channel.
-* README File: [CLICK HERE](https://github.com/warrenwoodhouse/thesims/releases/download/v1/README.md) to read the README File.
+* README File: [CLICK HERE](https://github.com/warrenwoodhouse/thesims/releases/download/v1/README.txt) to read the README File.
 
 # DOWNLOAD
 * ZIP Archive Folder: [CLICK HERE](https://github.com/warrenwoodhouse/thesims/archive/refs/tags/v1.zip) to download the recently updated folder.
