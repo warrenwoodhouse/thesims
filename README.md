@@ -1,6 +1,10 @@
 # thesims
 TheSims. User Generated Content for The Sims 1 by Warren Woodhouse. You can find more cool stuff at https://warrenwoodhouse.fandom.com/wiki/Themes
 
+# DOWNLOAD
+* ZIP Archive Folder: [CLICK HERE](https://github.com/warrenwoodhouse/thesims/archive/refs/tags/v1.zip) to download the recently updated folder.
+* TAR.GZ Archive Folder: [CLICK HERE](https://github.com/warrenwoodhouse/thesims/archive/refs/tags/v1.tar.gz) to download the recently updated folder.
+
 # LICENSE AGREEMENT
 Please read the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
 
